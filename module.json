@@ -2,8 +2,8 @@
 	"name": "ATL",
 	"title": "Active Token Effects",
 	"description": "Active Token Effects",
-	"author": "Kandashi",
-	"version": "0.2.14",
+	"authors": ["Kandashi", "strongpauly"],
+	"version": "0.2.15",
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
 
@@ -24,9 +24,9 @@
 	"styles": [
 		"/styles/ATL.css"
 	  ],
-	"url": "https://github.com/kandashi/Active-Token-Lighting",
-	"manifest": "https://raw.githubusercontent.com/kandashi/Active-Token-Lighting/main/module.json",
-	"download": "https://github.com/kandashi/Active-Token-Lighting/archive/main.zip",
+	"url": "https://github.com/strongpauly/Active-Token-Lighting",
+	"manifest": "https://raw.githubusercontent.com/strongpauly/Active-Token-Lighting/for-install/module.json",
+	"download": "https://github.com/strongpauly/Active-Token-Lighting/archive/for-install.zip",
 	"allowBugReporter": true,
-	"bugs": "https://github.com/kandashi/Active-Token-Lighting/issues"
+	"bugs": "https://github.com/strongpauly/Active-Token-Lighting/issues"
 }
